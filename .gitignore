@@ -1,0 +1,6 @@
+# Project exclude paths
+/cloud-service-gateway/target/
+/firstmicroservice/target/
+/secondmicroservice/target/
+/security-demo/target/
+/target/
